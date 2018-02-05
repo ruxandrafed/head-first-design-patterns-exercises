@@ -1,4 +1,4 @@
-package headfirst.designpatterns.actiongame;
+package designpatterns.strategy.actiongame;
 
 public class AxeBehavior implements WeaponBehavior {
     public void useWeapon() {

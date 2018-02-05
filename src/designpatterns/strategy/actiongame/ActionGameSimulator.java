@@ -1,4 +1,4 @@
-package headfirst.designpatterns.actiongame;
+package designpatterns.strategy.actiongame;
 
 public class ActionGameSimulator {
     public static void main(String[] args) {

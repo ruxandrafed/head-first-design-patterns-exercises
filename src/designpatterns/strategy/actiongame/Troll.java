@@ -1,4 +1,4 @@
-package headfirst.designpatterns.actiongame;
+package designpatterns.strategy.actiongame;
 
 public class Troll extends Character {
     public Troll() {

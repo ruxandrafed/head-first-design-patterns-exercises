@@ -1,4 +1,4 @@
-package headfirst.designpatterns.ducks;
+package designpatterns.strategy.ducks;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

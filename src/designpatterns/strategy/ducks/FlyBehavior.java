@@ -1,4 +1,4 @@
-package headfirst.designpatterns.ducks;
+package designpatterns.strategy.ducks;
 
 public interface FlyBehavior {
 	public void fly();
